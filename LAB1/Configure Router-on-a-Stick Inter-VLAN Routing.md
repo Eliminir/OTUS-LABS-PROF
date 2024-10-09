@@ -42,6 +42,7 @@ Configure an 802.1Q Trunk Between the Switches
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB1/14.JPG)
 
 
+Manually configure S1’s trunk interface F0/5
 
 
 
