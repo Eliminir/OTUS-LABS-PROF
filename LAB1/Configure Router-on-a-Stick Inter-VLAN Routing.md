@@ -27,3 +27,24 @@ Create VLANs on both switches
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB1/9.JPG)
 
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB1/10.JPG)
+
+Asign VLANs to the corect switch interfaces
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB1/11.JPG)
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB1/12.JPG)
+
+
+Configure an 802.1Q Trunk Between the Switches
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB1/13.JPG)
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB1/14.JPG)
+
+
+
+
+
+
+
+
