@@ -1,8 +1,10 @@
+Для распределения трафика между двумя линками с провайдером создаю 2 vlan 
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB5/10.JPG)
 
-Настрнаиваем политику маршрутизации для сетей офиса
-![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB5/1.JPG)
+Настрнаиваю политику маршрутизации для сетей офиса
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB5/3.JPG)
 
-Распределяю трафик между двумя линками с провайдером
+
 
 
 
