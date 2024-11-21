@@ -1,6 +1,6 @@
 
 Настрнаиваем политику маршрутизации для сетей офиса
-
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB5/1.JPG)
 
 Распределяю трафик между двумя линками с провайдером
 
