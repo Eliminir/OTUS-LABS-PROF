@@ -1,21 +1,22 @@
-# PBR
+# PBR :cop::globe_with_meridians::cop:
 
 
 
-#### Для распределения трафика между двумя линками с провайдером создаю 2 vlan 
-
-![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB5/10.JPG)
-
-#### не забываю про ACL
-
-![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB5/5.JPG) 
 
 
 #### Настраиваю политику маршрутизации для сетей офиса
 
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB5/3.JPG)
 
- #### В итоге роуд мапа выглядит так:
+#### Для распределения трафика между двумя линками с провайдером создаю 2 vlan 
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB5/10.JPG)
+
+#### Не забываю про ACL :warning:
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB5/5.JPG) 
+
+#### В итоге роуд мапа выглядит так:
 
  ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB5/4.JPG)
 
