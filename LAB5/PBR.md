@@ -29,13 +29,11 @@
 
 #### Для офиса Лабытнанги настроен статический маршрут 
 
-![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB5/4.JPG)
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB5/6.JPG)
 
 
 
 
-Настройте для офиса Лабытнанги маршрут по-умолчанию
 
-![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB5/5.JPG)
 
 
