@@ -12,7 +12,7 @@
 
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB5/10.JPG)
 
-#### Не забываю про ACL :warning:
+#### Не забываем про ACL :warning:
 
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB5/5.JPG) 
 
