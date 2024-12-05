@@ -18,4 +18,8 @@
 
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB6/2.JPG)
 
+Конфигурация R12, R13
 
+Настройку OSPF произведем на примере маршрутизатора R12. Настроим процесс OSPF. На R13 настройки аналогичные
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB6/3.JPG)
