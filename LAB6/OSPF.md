@@ -23,3 +23,23 @@
 Настройку OSPF произведем на примере маршрутизатора R12. Настроим процесс OSPF. На R13 настройки аналогичные
 
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB6/3.JPG)
+
+Конфигурация R19
+
+R19 находится в area 101 и получает маршрут по умолчанию следовательно эта зона является totally stub
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB6/4.JPG)
+
+Конфигурация R20
+
+По заданию R20 должен получать все маршруты, кроме маршрутов до area 101 . Для этого на R15 создадим preffix-list, запрещающий прохождение маршрутов до сети network 10.100.1.0 0.0.0.255 и применим его в процессе OSPF на зоне 101
+
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB6/5.JPG)
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB6/6.JPG)
+
+Как видно, в таблице маршрутизации на R20 маршрут до сети 10.100.1.0 0.0.0.255 отсутствует
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB6/7.JPG)
+
