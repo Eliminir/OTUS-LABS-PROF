@@ -14,3 +14,5 @@ R16-17 анонсируют только суммарные префиксы.
 Использовать EIGRP named-mode для настройки сети.
 
 ### Схема
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB8/1.JPG)
