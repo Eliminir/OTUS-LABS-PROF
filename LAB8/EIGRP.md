@@ -16,3 +16,18 @@ R16-17 анонсируют только суммарные префиксы.
 ### Схема
 
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB8/1.JPG)
+
+
+### Выполнение:
+
+R18:
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB8/2.JPG)
+
+R17:
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB8/3.JPG)
+
+R16:
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB8/4.JPG)
