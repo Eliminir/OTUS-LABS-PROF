@@ -44,11 +44,11 @@ R16:
 
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB8/5.JPG)
 
-Как пример посмотрим, что сети доступны с R17
+Как пример посмотрим, что сети доступны с R18
 
-![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB8/6.JPG)
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB8/11.JPG)
 
-![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB8/7.JPG)
+
 
 
 
