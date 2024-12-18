@@ -1,10 +1,12 @@
-## EIGRP
+## EIGRP ⚙⚙⚙
 
 #### Цель:
+
 Настроить EIGRP в С.-Петербург; Использовать named EIGRP
 
 
 ### Описание выполнения домашнего задания:
+
  В офисе С.-Петербург настроить EIGRP.
 
 R32 получает только маршрут по умолчанию.
@@ -40,11 +42,15 @@ R16:
 
 
 
+
 Рассмотрим, что видно после настройки EIGRP на R32
+
 
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB8/5.JPG)
 
+
 Как пример посмотрим, что сети доступны с R18
+
 
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB8/11.JPG)
 
