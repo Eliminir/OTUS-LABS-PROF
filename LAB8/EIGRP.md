@@ -32,6 +32,14 @@ R16:
 
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB8/4.JPG)
 
+В задании указано, что R16-17 анонсируют только суммарные префиксы, для этого необходимо проделать следующие настройки:
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB8/9.JPG)
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB8/10.JPG)
+
+
+
 Рассмотрим, что видно после настройки EIGRP на R32
 
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB8/5.JPG)
