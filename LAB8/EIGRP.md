@@ -45,6 +45,10 @@ R16:
 ### Настройка суммаризации IP подсетей
 
 
+На интерфейсах маршрутизаторов в сторону комутаторов ужно выполнить no switchport, нам это необходимо для настройки EIGRP-связности
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB8/8.JPG)
+
 
 
 
