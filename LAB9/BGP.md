@@ -1,4 +1,4 @@
-## BGP Основы
+## BGP Основы :space_invader::space_invader::space_invader::space_invader::space_invader:
 
 
 
@@ -23,7 +23,7 @@
 
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB9/5.JPG)
 
-Организовываем IP доступность между пограничным роутерами офисами Москва и С.-Петербург, проверяем c помощью ping с R14 на R18 и на оборот
+Организовываем IP доступность между пограничным роутерами офисов Москва и С.-Петербург, проверяем корректность c помощью ping с R14 на R18 и наоборот
 
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB9/6.JPG)
 
