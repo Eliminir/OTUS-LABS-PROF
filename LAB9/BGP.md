@@ -28,3 +28,7 @@
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB9/6.JPG)
 
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB9/7.JPG)
+
+Как пример правильности проведенных работ, вывод команды show ip route на R21, из него видим что как и задуманно анонсируються два наших маршрута из московской и питерской сети
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB9/8.JPG)
