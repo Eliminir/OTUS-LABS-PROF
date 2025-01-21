@@ -40,9 +40,10 @@ BGP-сессия попытается установиться между сос
 
 ### Настройка iBGP в Триаде
 
-Настроим как R14, R15, сделаем Full Mesh:
+Настроим R23/24/25/26 по аналогии как R14, R15, Из вывода команды show ip bgp summary видим, что сессия успешно установилась.
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB10/4.JPG)
 
 
-
-
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB10/3.JPG)
 
