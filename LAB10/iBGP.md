@@ -45,5 +45,5 @@ BGP-сессия попытается установиться между сос
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB10/4.JPG)
 
 
-![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB10/3.JPG)
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB10/5.JPG)
 
