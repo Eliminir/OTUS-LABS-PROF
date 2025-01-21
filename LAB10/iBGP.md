@@ -38,6 +38,10 @@ BGP-сессия попытается установиться между сос
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB10/3.JPG)
 
 
+### Настройка iBGP в Триаде
+
+Настроим как R14, R15, сделаем Full Mesh:
+
 
 
 
