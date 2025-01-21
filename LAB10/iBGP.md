@@ -1,4 +1,4 @@
-### iBGP :shipit::shipit::shipit:
+### iBGP :shipit:
 
 ### Цель:
  Настроить iBGP в офисе Москва
