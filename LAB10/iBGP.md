@@ -26,5 +26,19 @@
 
 Добавим IP адреса 1.1.1.14 и 1.1.1.15 для лупбеков R14 и R15
 
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB10/1.JPG)
+
+BGP-сессия попытается установиться между соседями по IP адресам с интерфейса Ethernet 1/0, а не по IP адресам с Loopback, которые мы задавали выше. Чтобы указать роутеру использовать адрес с другого интерфейса выполняем команду update-source Loopback0
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB10/2.JPG)
+
+
+Из вывода команды show ip bgp summary видим, что сессия успешно установилась
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB10/3.JPG)
+
+
+
+
 
 
