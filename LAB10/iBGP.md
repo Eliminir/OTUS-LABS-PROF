@@ -47,3 +47,16 @@ BGP-сессия попытается установиться между сос
 
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB10/5.JPG)
 
+
+Настройка RR в Триаде
+
+Настроим R23 как RR serv:
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB10/6.JPG)
+
+Настройка R24/R25/R26
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB10/7.JPG)
+
+
+
