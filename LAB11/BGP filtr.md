@@ -40,6 +40,13 @@
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB11/2.JPG)
 
 
+### Настройка Киторн, в Moscow отдается только маршрут по умолчанию
+
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB11/3.JPG)
+
+
+
 
 
 
