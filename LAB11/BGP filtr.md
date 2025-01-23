@@ -50,7 +50,7 @@
 
 Пропишем чтобы R21 отправлял R15 маршрут по умолчанию и отбрасывал все префиксы, кроме содержащий в начале пути Piter(AS888):
 
-![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB11/4.JPG)
+
 
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB11/5.JPG)
 
