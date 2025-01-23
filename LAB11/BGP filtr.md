@@ -46,6 +46,13 @@
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB11/3.JPG)
 
 
+### Настраиваем Ламас так, чтобы в Moscow отдавался только маршрут по умолчанию и префикс от Piter
+
+Пропишем чтобы R21 отправлял R15 маршрут по умолчанию и отбрасывал все префиксы, кроме содержащий в начале пути Piter(AS888):
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB11/4.JPG)
+
+
 
 
 
