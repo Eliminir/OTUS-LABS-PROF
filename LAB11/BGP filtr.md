@@ -22,4 +22,18 @@
 
 Все сети в лабораторной работе должны иметь IP связность.
 
+
+### Удаление транзитного трафика в Moscow
+
+
+Напишем на R14 и R15 правила для предотвращения транзита:
+
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB11/1.JPG)
+
+
+### Удаление транзитного трафика в Piter
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB11/1.JPG)
+
+
+
