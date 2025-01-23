@@ -38,8 +38,7 @@
 
 
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB11/2.JPG)
-![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB11/3.JPG)
-![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB11/4.JPG)
+
 
 
 
