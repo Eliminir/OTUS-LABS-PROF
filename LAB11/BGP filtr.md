@@ -55,6 +55,18 @@
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB11/5.JPG)
 
 
+### Настройка фильтрации для входящих анонсов в Moscow
+
+
+
+Настроим R15 на прием default и маршрутов из Piter :
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB11/6.JPG)
+
+Настроим на R14 на прием только default:
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB11/7.JPG)
+
 
 
 
