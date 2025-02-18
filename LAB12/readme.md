@@ -25,4 +25,53 @@
 Настроите NTP сервер на R12 и R13. Все устройства в офисе Москва должны синхронизировать время с R12 и R13.
 
 
+### Настраиваем NAT на R14 и R15
+
+Пример настроек R14, на R15 прописываем аналогичное
+
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB12/1.JPG)
+
+
+### Настраиваем NAT на R18(Piter)
+
+В отличие от Московского офиса пул внешних айпи адресов будет из 5 адресов.
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB12/2.JPG)
+
+
+### Статический NAT для R20(Moscow)
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB12/3.JPG)
+
+
+### R19 был доступен с любого узла для удаленного управления
+
+Настроим подключение на R19 по telnet, для управления:
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB12/4.JPG)
+
+Проверяем:
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB12/5.JPG)
+
+### Настраиваем DHCPv4 на R12 и R13
+
+
+На R12 выделим пулы адресов 100.0.0.1 - 100.0.0.100 и 100.0.1.1 - 100.0.1.100
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB12/6.JPG)
+
+На R13 выделим пул адресов 100.0.0.100-100.0.0.255 и 100.0.1.100-100.0.1.255
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB12/7.JPG)
+
+### Настраиваем NTP сервера
+
+
+
+
+
+
+
+
+
