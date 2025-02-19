@@ -67,9 +67,25 @@
 
 ### Настраиваем NTP сервера
 
+Так как доступа в интернеты нет, мастер серверами откуда будет подтягиваться NTP служат R12, R13
 
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB12/8.JPG)
 
+На необходимых роутерах:
 
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB12/9.JPG)
+
+На необходимых комуттаторах:
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB12/10.JPG)
+
+Проверка:
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB12/11.JPG)
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB12/12.JPG)
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB12/13.JPG)
 
 
 
