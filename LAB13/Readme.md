@@ -18,4 +18,9 @@ ________________________________________________________________________________
 
 Настройка маршрутизаторов в Moscow:
 
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB13/1.JPG)
 
+
+Настройка маршрутизаторов в Piter:
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB13/2.JPG)
