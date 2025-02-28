@@ -33,7 +33,7 @@ ________________________________________________________________________________
 ## DMVPN между офисами Москва и Чокурдах, Лабытнанги
 
 
-В виртуальной сети разделим железки по следующим ролям:
+В нашей будущей виртуальной сети разделим железки по следующим ролям:
 
 Moscow - HUB:
 R14: 100.1.100.14
@@ -44,6 +44,26 @@ R27: 52.0.5.27
 
 Чокурдах - SPOKE:
 R28: 52.0.4.28, 52.0.3.28
+
+
+Настроим R15 с ролью HUB:
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB13/4.JPG)
+
+R14 настраиваем аналогично
+
+Настроим R27 с ролью SPOKE:
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB13/5.JPG)
+
+
+По аналогии настраиваем R28, с помощью ping проверяем работу
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB13/6.JPG)
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB13/7.JPG)
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB13/8.JPG)
 
 
 
