@@ -21,3 +21,9 @@
 
 ### Настраиваем DMVPN поверх IPSec между Москва и Чокурдах, Лабытнанги.
 
+DMVPN между Москва и Чокурдах, Лабытнанги (поднимали в прошлой лабе) нужно сверху накрутить IPSec, используем тот же профиль что и выше
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB14/3.JPG)
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB14/4.JPG)
+
