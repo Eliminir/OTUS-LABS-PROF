@@ -14,3 +14,10 @@
 У нас уже есть созданные Tunnel1000 и Tunnel1001 (поднимали в прошлой лабе), буду настраивать IPSec на них.
 
 ![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB14/1.JPG)
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB14/2.JPG)
+
+Подобно настраиваем и шифрование Tunnel1001
+
+### Настраиваем DMVPN поверх IPSec между Москва и Чокурдах, Лабытнанги.
+
