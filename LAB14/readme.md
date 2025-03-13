@@ -36,4 +36,22 @@ DMVPN между Москва и Чокурдах, Лабытнанги (под�
 3) Прикрутить к IPSec работу через сертификаты
 4) Проверить, что все работает
 
+Параметры сертов:
 
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB14/5.JPG)
+
+Настройка CA
+
+Роль CA будет выполнять R15
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB14/7.JPG)
+
+Настройка клиента
+
+На всех железках, участвующих в VPN, выполняем
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB14/8.JPG)
+
+Настройка trust point:
+
+![alt text](https://github.com/Eliminir/OTUS-LABS-PROF/blob/main/LAB14/9.JPG)
